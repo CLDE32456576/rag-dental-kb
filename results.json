@@ -1,0 +1,20 @@
+[
+  {
+    "strategy": "Naive (Embeddings Only)",
+    "correct": 8,
+    "total": 10,
+    "accuracy": 0.8
+  },
+  {
+    "strategy": "Hybrid (BM25 + Semantic)",
+    "correct": 10,
+    "total": 10,
+    "accuracy": 1.0
+  },
+  {
+    "strategy": "Contextual (Rewritten Chunks)",
+    "correct": 9,
+    "total": 10,
+    "accuracy": 0.9
+  }
+]
